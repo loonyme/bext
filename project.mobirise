@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeXt",
-    "currentPage": "Home.html",
+    "currentPage": "Contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -327,6 +327,10 @@
             },
             ".mbr-section-title": {
               "color": "#f3c649"
+            },
+            "B": {
+              "font-size": "30px",
+              "color": "#000000"
             }
           },
           "_anchor": "form1-5",
@@ -337,7 +341,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#261846",
+            "bgColor": "#00a885",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -346,7 +350,7 @@
             "showSubTitle": true
           },
           "title": "BRONZE<br><br><div>Plan 1</div><div>Minimum Invest 0.01 BTC and Maximum 0.1 BTC</div>",
-          "subtitle": "<b>Bitcoin Address for Deposits</b><br><b><br></b>1Bm8Qo9w1z16TXqfx2i3m4coi9e8WWEmTt<b><br><br></b><b style=\"font-size: 17px;\">Pay Bitcoins and Get 100% profit After 48 Hours! - YOUR RETURNS AND INVESTMENT WILL BE SENT TO THE BITCOIN ADDRESS YOU PAID WITH.</b><br><b style=\"font-size: 17px;\">FILL THE FORM BELOW WITH YOU DETAILS. YOUR INVESTMENT AMOUNT IN THE MESSAGE BOX, TRANSACTION I.D AND YOUR BITCOIN WALLET.&nbsp;<br></b><b><br></b>",
+          "subtitle": "<b>Bitcoin Address for Deposits</b><br><b><br>1Bm8Qo9w1z16TXqfx2i3m4coi9e8WWEmTt<br><br></b><b style=\"font-size: 17px;\">Pay Bitcoins and Get 100% profit After 48 Hours! - YOUR RETURNS AND INVESTMENT WILL BE SENT TO THE BITCOIN ADDRESS YOU PAID WITH.</b><br><b style=\"font-size: 17px;\">FILL THE FORM BELOW WITH YOU DETAILS. YOUR INVESTMENT AMOUNT IN THE MESSAGE BOX, TRANSACTION I.D AND YOUR BITCOIN WALLET.&nbsp;<br></b><b><br></b>",
           "form": {
             "action": "loonymakeme@gmail.com",
             "alerts": {
@@ -487,7 +491,11 @@
               "color": "#8f8a8a"
             },
             "SMALL": {
-              "color": "#f28281"
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-size": "30px"
             }
           },
           "_anchor": "form1-6",
@@ -498,7 +506,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1e0b48",
+            "bgColor": "#eb6b56",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -507,7 +515,7 @@
             "showSubTitle": true
           },
           "title": "SILVER<br><div><br></div><div>Plan 2</div><div>Minimum Invest 0.1 BTC and Maximum 0.9 BTC</div>",
-          "subtitle": "Bitcoin Address for Deposits<br><br>1Bm8Qo9w1z16TXqfx2i3m4coi9e8WWEmTt<br><br>Pay Bitcoins and Get 100% profit After 48 Hours! - YOUR RETURNS AND INVESTMENT WILL BE SENT TO THE BITCOIN ADDRESS YOU PAID WITH.<br>FILL THE FORM BELOW WITH YOU DETAILS. YOUR INVESTMENT AMOUNT IN THE MESSAGE BOX, TRANSACTION I.D AND YOUR BITCOIN WALLET.&nbsp;<br>",
+          "subtitle": "Bitcoin Address for Deposits<br><br>1<b>Bm8Qo9w1z16TXqfx2i3m4coi9e8WWEmTt</b><br><br>Pay Bitcoins and Get 100% profit After 48 Hours! - YOUR RETURNS AND INVESTMENT WILL BE SENT TO THE BITCOIN ADDRESS YOU PAID WITH.<br>FILL THE FORM BELOW WITH YOU DETAILS. YOUR INVESTMENT AMOUNT IN THE MESSAGE BOX, TRANSACTION I.D AND YOUR BITCOIN WALLET.&nbsp;<br>",
           "form": {
             "action": "loonymakeme@gmail.com",
             "alerts": {
@@ -645,10 +653,13 @@
               "color": "#232323"
             },
             "SMALL": {
-              "color": "#f28281"
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "color": "#a9830b"
+            },
+            "B": {
+              "font-size": "30px"
             }
           },
           "_anchor": "form1-7",
@@ -659,7 +670,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1c0e3d",
+            "bgColor": "#fac51c",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -668,7 +679,7 @@
             "showSubTitle": true
           },
           "title": "GOLD<br><br><div>Plan 3</div><br><div><span style=\"font-size: 3rem; letter-spacing: -1px; line-height: 1.1;\">Minimum Invest 0.9 BTC and Maximum 5 BTC</span><br></div>",
-          "subtitle": "Bitcoin Address for Deposits<br><br>1Bm8Qo9w1z16TXqfx2i3m4coi9e8WWEmTt<br><br>Pay Bitcoins and Get 100% profit After 48 Hours! - YOUR RETURNS AND INVESTMENT WILL BE SENT TO THE BITCOIN ADDRESS YOU PAID WITH.<br>FILL THE FORM BELOW WITH YOU DETAILS. YOUR INVESTMENT AMOUNT IN THE MESSAGE BOX, TRANSACTION I.D AND YOUR BITCOIN WALLET.&nbsp;<br>",
+          "subtitle": "Bitcoin Address for Deposits<br><br><b>1Bm8Qo9w1z16TXqfx2i3m4coi9e8WWEmTt</b><br><br>Pay Bitcoins and Get 100% profit After 48 Hours! - YOUR RETURNS AND INVESTMENT WILL BE SENT TO THE BITCOIN ADDRESS YOU PAID WITH.<br>FILL THE FORM BELOW WITH YOU DETAILS. YOUR INVESTMENT AMOUNT IN THE MESSAGE BOX, TRANSACTION I.D AND YOUR BITCOIN WALLET.&nbsp;<br>",
           "form": {
             "action": "loonymakeme@gmail.com",
             "alerts": {
@@ -984,6 +995,104 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "Web Page Creator Title",
+        "meta_descr": "Web Page Creator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "36px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-b",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/vox-1-235x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://nox.Github.io",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://nox.Github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BeXt</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://nox.Github.io\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact.html\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         }
       ]
     }
